@@ -11,6 +11,6 @@ mo = n1 % n2
 print('Soma: {}'.format(s))
 print('Multiplicação: {}'.format(m))
 print('Divisão: {}'.format(d))
-print('Divisão inteira: {}'.format(di))
+print('Divisão inteira: {:.2f}'.format(di))
 print('Potência: {}'.format(e))
 print('Resto da divisão: {}'.format(mo))
