@@ -4,4 +4,4 @@
 
 salario = float(input('Informe o seu salário: '))
 newSalario = salario + (salario * 0.15)
-print('Seu novo salário é de R$ {:.2f}.'.format(newSalario))
+print('Seu novo salário é de R$ {:.2f}.'.format(newSalario)) 
