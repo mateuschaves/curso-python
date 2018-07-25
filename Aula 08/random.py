@@ -1,3 +1,7 @@
+# Sorteando meus números da mega sena.
+
+
 import random
-num = random.random()
-print(num)
+
+numeros = [random.randint(1, 60), random.randint(1, 60), random.randint(1, 60), random.randint(1, 60), random.randint(1, 60), random.randint(1, 60)]
+print(numeros)
