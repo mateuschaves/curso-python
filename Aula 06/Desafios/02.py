@@ -2,8 +2,8 @@
 
 entrada = input('Digite o que você quiser meu bem: ')
 
-print('É numérico ? ', entrada.isnumeric())
-print('É alfabético ? ', entrada.isalpha())
-print('É decimal ? ', entrada.isdecimal())
-print('É maiúsculo ? ', entrada.isupper())
-print('É minúsculo ? ', entrada.islower())
+print('{} é numérico ?  {}'.format(entrada, entrada.isnumeric()))
+print('{} é alfabético ? {}'.format(entrada, entrada.isalpha()))
+print('{} é decimal ? {}'.format(entrada, entrada.isdecimal()))
+print('{} é maiúsculo ? {}'.format(entrada, entrada.isupper()))
+print('{} é minúsculo ? {}'.format(entrada, entrada.islower()))
