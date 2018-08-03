@@ -4,5 +4,5 @@
 
 frase = input("Digite uma frase: ").split()
 one = frase[0]
-print('SANTO' in one)
+print('SANTO' in one.upper())
 
