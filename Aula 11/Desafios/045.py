@@ -2,7 +2,16 @@
     Crie um programa que faça o
     computador jogar Jokenpô com você.
 
+
+    Não me deixe só
+    Eu tenho medo do escuro
+    Eu tenho medo do inseguro
+
+    Dos fantasmas da minha voz
+
+    Não Me Deixe Só - Vanessa da Mata ♪♫
 """
+
 from random import randint
 from time import sleep
 itens = ('Pedra', 'Papel', 'Tesoura')
