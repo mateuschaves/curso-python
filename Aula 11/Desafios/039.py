@@ -13,7 +13,10 @@
     Coração Canarval - Anavitória ♪♫
 """
 import datetime
-
+sexo = input('Qual o seu sexo ? ').strip()
+if sexo.upper() == 'FEMININO':
+    print('Alistamento não obrigatório !')
+    exit(1)
 nascimento = int(input('Informe o seu ano de nascimento: '))
 atual = datetime.datetime.now().year
 idade = atual - nascimento
