@@ -11,7 +11,7 @@
 
     Waiting for your love, waiting for our eyes to meet
 
-    I Went Too Far - Aurora
+    I Went Too Far - Aurora ♪♫
 """
 
 from time import sleep
