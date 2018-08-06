@@ -3,6 +3,16 @@
     o usuário se ele quer mostrar mais alguns
     termos. O programa encerra quando ele
     disser que quer mostrar 0 elementos.
+
+
+    Stand by me
+    Nobody knows
+    The way it's gonna be
+    Stand by me
+    Nobody knows
+    The way it's gonna be
+
+    Stand By Me - Oasis ♪♫
 """
 
 p1 = int(input('Informe o primeiro termo da PA: '))
