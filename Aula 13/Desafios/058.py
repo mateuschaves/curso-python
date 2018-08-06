@@ -17,8 +17,8 @@
 from random import randint
 flag = 0
 c = 0
+computador = randint(0, 10)
 while flag != 1:
-    computador = randint(0, 10)
     jogador = int(input('Digite um número: '))
     c += 1
     if jogador == computador:
