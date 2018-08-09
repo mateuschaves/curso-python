@@ -11,14 +11,9 @@
 
     D) Em que posição na tabela está o time da Chapecoense.
 
-    Havia uma sacola com uma mascara
-    E uma garota a encontrou
-    De início teve medo
-    Não sabia o que fazer
-    E nem como compor
-    Mas colocou sobre o seu rosto
-    E lhe caiu tão bem
-    Ficou
+    E dizem que sorrindo ela entendeu
+    Que a vida só se dá
+    Pra quem se deu
 
     Mascarados - Rubel ♪♫
 """
