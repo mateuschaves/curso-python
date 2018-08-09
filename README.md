@@ -1,2 +1,2 @@
-# curso-python
-Repositório com os arquivos das aulas de python do canal Curso em Vídeo
+# Curso Python 3
+Repositório com os desafios das aulas de Python 3 do canal Curso em Vídeo
